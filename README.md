@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Contaks Rehan Surya Wijaya
+# 👋 Hi, I’m Rehan Surya Wijaya
 
 - 👀 I’m interested in cloud computing, fullstack development, and innovative technologies.
 - 🌱 I’m currently learning advanced cloud computing techniques and new fullstack frameworks.
